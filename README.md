@@ -24,4 +24,31 @@
 > [!NOTE]
 > We'll soon have a [launch blog post](https://walshe.tech/) to learn more about `grab`!
 
-## Installation
+## Installation guide
+1. **Installing UV**: Our python package and project manager of choice is [UV](https://docs.astral.sh/uv/), it should be installed to your global environment using:
+
+```bash
+python3 -m pip install uv
+```
+
+2. **Clone repo**: Clone locally using:
+
+```bash
+git clone https://github.com/t-walshe/grab.git
+```
+
+3. **Set up environment**: UV can be used to automatically set up a virtual environment in the top-level directory (`grab/`) using:
+
+```bash
+uv sync
+```
+
+4. **Install in editable mode**: For package development, you can install an editable version using:
+
+```bash
+uv pip install --pip-reinstall --no-deps -e .
+```
+
+
+
+
