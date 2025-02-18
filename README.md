@@ -20,3 +20,8 @@
 🔒 **On-device storage**: Built-in support for [SQLite](https://www.sqlite.org/) keeps your data local.
 
 📙 **Export compatibility**: Take your insights forward with [Obsidian](https://obsidian.md/).
+
+> [!NOTE]
+> We'll soon have a [launch blog post](https://walshe.tech/) to learn more about `grab`!
+
+## Installation
