@@ -4,6 +4,13 @@
     <a href="https://github.com/t-walshe/grab/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/t-walshe/grab"></a>   
 </div>
 
+<h3 align="center">
+  <div style="display:flex;flex-direction:row;">
+    <img src="https://github.com/t-walshe/grab/blob/main/assets/logo.png" alt="grab logo" width=100px>
+    <p>grab - AI-Powered Email Management</p>
+  </div>
+</h3>
+
 # grab
 AI-Powered Email Management
 
