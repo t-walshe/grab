@@ -40,6 +40,7 @@ git clone https://github.com/t-walshe/grab.git
 3. **Set up environment**: UV can be used to automatically set up a virtual environment in the top-level directory (`grab/`) using:
 
 ```bash
+uv venv
 uv sync
 ```
 
